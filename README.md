@@ -1,6 +1,6 @@
 # Learn Go
 
-Go 언어를 학습하고 정리하낟.
+Go 언어를 학습하고 정리한다.
 
 # Project
 
@@ -41,3 +41,16 @@ Go 언어를 학습하고 정리하낟.
 - Map 사용법
 - CRUD Function 사용법
 - Error Handling
+
+## URL Checker
+
+간단한 URL Checker
+
+### Function
+
+- URL Check
+
+### Learn
+
+- Goroutines
+- Channels
